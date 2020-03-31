@@ -1,8 +1,10 @@
 import React from 'react';
 
+import SplitScreen from './components/SplitScreen';
+
 function App() {
   return (
-    <h1>Hello, World!</h1>
+    <SplitScreen />
   );
 }
 
